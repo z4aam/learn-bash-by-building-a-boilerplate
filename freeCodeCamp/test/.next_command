@@ -90,3 +90,4 @@ cd freeCodeCamp/
 cd node_modules/
 cd ../..
 ls --color=auto
+clear
