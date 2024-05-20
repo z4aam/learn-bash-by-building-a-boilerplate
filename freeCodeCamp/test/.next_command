@@ -42,3 +42,5 @@ clear
 ls --color=auto
 make node_modules
 cd node_modules
+__vsc_prompt_cmd_original
+ls --color=auto
