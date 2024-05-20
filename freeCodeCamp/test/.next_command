@@ -81,3 +81,11 @@ cd éé
 cd ..
 ls --color=auto
 cd ..
+cd../..
+cd .. ..
+cd ....
+cd ..
+cd ..
+cd freeCodeCamp/
+cd node_modules/
+cd ../..
