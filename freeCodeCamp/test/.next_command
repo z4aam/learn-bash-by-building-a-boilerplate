@@ -49,3 +49,8 @@ ls --color=auto -l
 cde has
 cd has
 ls --color=auto
+cd README.md
+make README.md
+more README.md
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
